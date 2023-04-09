@@ -70,7 +70,7 @@ The proposed social insurance program is designed to provide citizens with finan
 
 The program will reduce displacement risk by incentivising proactive relocation, offering abuyback scheme to houses of low-income policyholders living in high-risk regions, enabling them to relocate before or after a severe or catastrophic climate-related event. This helps reduce costs associated with emergency displacement, improving the overall effectiveness of the program.
 
-**2.Financial Protection for Policyholders**
+**2. Financial Protection for Policyholders**
 
 The program provides policyholders with financial protection against the costs associated with voluntary, proactive relocation as well as involuntary displacement following a catastrophic event. 
 
