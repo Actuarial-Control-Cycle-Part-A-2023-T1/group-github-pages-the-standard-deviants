@@ -70,7 +70,7 @@ The proposed social insurance program is designed to provide citizens with finan
 
 The program will reduce displacement risk by incentivising proactive relocation, offering abuyback scheme to houses of low-income policyholders living in high-risk regions, enabling them to relocate before or after a severe or catastrophic climate-related event. This helps reduce costs associated with emergency displacement, improving the overall effectiveness of the program.
 
-**2.Financial Protection for Policyholders**
+**2. Financial Protection for Policyholders**
 
 The program provides policyholders with financial protection against the costs associated with voluntary, proactive relocation as well as involuntary displacement following a catastrophic event. 
 
@@ -136,9 +136,9 @@ Each distribution was accordingly fitted to the property damage data and compare
 
 | Distribution| AIC         | BIC           | Log-Likelihood | Final Selection |
 |:-----------:|:-----------:|:-------------:|:-------------: |:-------------:  |
-| Gumbel      | 7743.014    | 7749.4        | -3869.507      |  ✘            |
-| Weibull     | 4835.001    | 4841.387      | -2415.50       |    ✘          |
-| Fréchet     | 4821.952    | 4831.53       | -2407.976      |             ✔|
+| Gumbel      | 7743.014    | 7749.4        | -3869.51       |        ✘        |
+| Weibull     | 4835.001    | 4841.4        | -2415.50       |        ✘        |
+| Fréchet     | 4821.952    | 4831.5        | -2407.98       |        ✔        |
 
 Known to have the best performance in capturing heavy right tails, the Fréchet distribution is 
 commonly used in studies to model extreme phenomena in fields such as meteorology, hydrology, and finance (RAL 2022). With a shape parameter (α), scale parameter (σ), and location parameter (μ), the parameter estimates are shown in [Appendix D](#d) and the probability 
@@ -281,9 +281,13 @@ To minimise costs to 10% of Storslysia’s annual GDP, projections of future GDP
 ## SECTION 6: DATA & DATA LIMITATIONS  <a name="data"></a>
 ### 6.1 DATA SOURCES   <a name="source"></a>
 The data provided by the task force was used to create this proposal, and no further external data sources were used. The datasets used included:
+
 •	Demographic and economic information of Storslysia up to 2022;
+
 •	Historical hazard events in Storslysia since the 1960s;
+
 •	Projections of world population, world GDP and SSP emissions until 2100-2150
+
 
 ### 6.2 DATA LIMITATIONS   <a name="datalimits"></a>
 ***Insufficiency in Data Reporting***
@@ -314,7 +318,7 @@ Finally, it is recommended that preventative measures be introduced alongside th
 
 ## SECTION 8: APPENDICES <a name="appendix"></a>
 
-### APPENDIX A: LIMIT & DEDUCTIBLE <a name="a"></a>
+#### APPENDIX A: LIMIT & DEDUCTIBLE <a name="a"></a>
 Limits and deductibles were selected based on minor-to-catastrophic hazard event simulations, although these are adjustable depending on funding sources of the insurance program. 
 
 #### APPENDIX B: HISTOGRAM OF ACUTE AND CHRONIC HAZARD EVENTS <a name="b"></a>
