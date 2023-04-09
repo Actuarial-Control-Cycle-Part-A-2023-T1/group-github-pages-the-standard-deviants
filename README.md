@@ -145,14 +145,14 @@ commonly used in studies to model extreme phenomena in fields such as meteorolog
 density function is shown below:
         
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768226-ee273a7e-7e0e-40e4-8b10-ed653da7a3b3.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768226-ee273a7e-7e0e-40e4-8b10-ed653da7a3b3.png"/>
 </p>
 
 #### 3.1.2 CALCULATING RETURN PERIOD
 With a distribution fitted to the data, return periods of 2, 5, 10 and 100 years were set as benchmarks for quantifying the damages of Minor, Moderate, Severe and Catastrophic events. The return period is defined as the time between disasters of a particular scale occurring, meaning that a 1-in-100-year hazard event was set to be catastrophic in terms of severity. With the Fréchet distribution, the damage level that corresponded to a given quantile was calculated, where quantiles were set as:
 		
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768198-04384d02-554d-48a9-be9d-d1a28b47d2bf.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768198-04384d02-554d-48a9-be9d-d1a28b47d2bf.png"/>
 </p>
 		
 For example, to obtain a damage estimate of a minor event, the 50% quantile of our fitted distribution was taken.
@@ -161,14 +161,14 @@ For example, to obtain a damage estimate of a minor event, the 50% quantile of o
 To determine confidence intervals (CIs) for the predictions, percentile bootstrapping was chosen over other bootstrapping methods to generate more stable results, given there are many extreme data points. The dataset was resampled Β = 1000 times with replacement, and from each resampled dataset, a hazard rate and severity value were calculated for each of the 6 regions. The 95% confidence interval was then constructed as follows by taking the interval between the 25th quantile value to the 975th quantile value from the 1000 estimates in the bootstrapped sample:
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768212-f9cf7cf8-77b2-48a8-88ba-eb19ad5a5836.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768212-f9cf7cf8-77b2-48a8-88ba-eb19ad5a5836.png"/>
 </p>
 
 #### 3.1.4 PROJECTING DAMAGE ESTIMATES
 After obtaining the return period and severity values for each region, the damage estimates were projected into the future by re-evaluating the likelihood of a disaster of each magnitude occurring. For example, if there was a certain disaster with a return period of 2 years, it would be expected to occur 0.5 times on average per year. To achieve this, LOESS models were fit to the provided future atmospheric CO2 emissions to obtain annual estimates under each SSP model up until 2150 (see [Appendix E](#e)). The Risk Adjustment Factor (RAF) was calculated as 
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768237-7aa52558-d979-4154-a114-0292dff29b11.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768237-7aa52558-d979-4154-a114-0292dff29b11.png"/>
 </p>
 
 and multiplied by these annual frequencies to account for the increasing intensity of hazard events with higher CO2 
