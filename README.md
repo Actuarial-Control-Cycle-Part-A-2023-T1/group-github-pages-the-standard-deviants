@@ -320,13 +320,13 @@ Limits and deductibles were selected based on minor-to-catastrophic hazard event
 #### APPENDIX B: HISTOGRAM OF ACUTE AND CHRONIC HAZARD EVENTS <a name="b"></a>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768068-c6efab18-60cd-4889-83e4-30e7eaa6485a.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768068-c6efab18-60cd-4889-83e4-30e7eaa6485a.png"/>
 </p>
 
 #### APPENDIX C: FRÉCHET GOODNESS-OF-FIT PLOTS  <a name="c"></a>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768074-737f4663-28f6-47c0-a8d4-219b468b5c85.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768074-737f4663-28f6-47c0-a8d4-219b468b5c85.png"/>
 </p>
 
 #### APPENDIX D: PARAMETER ESTIMATES  <a name="d"></a>
@@ -341,7 +341,7 @@ Limits and deductibles were selected based on minor-to-catastrophic hazard event
 #### APPENDIX E: STORSLYSIA CO2 EMISSION PROJECTIONS <a name="e"></a>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768083-1f2a4a9a-3ceb-45fc-9a5b-87fc6c8fe01a.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768083-1f2a4a9a-3ceb-45fc-9a5b-87fc6c8fe01a.png"/>
 </p>
 
 #### APPENDIX F: PROPERTY VALUE DISTRIBUTIONS <a name="f"></a>
@@ -369,8 +369,7 @@ The properties in Storslysia were categorised into 6 groups according to their p
 #### APPENDIX H: ANNUAL PERCENTAGE OF PARTICIPANTS THAT PARTICIPATE IN BUYBACK SCHEME <a name="h"></a>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768092-b7327e6c-179a-4ae8-8e94-fad019e2a8c2.png)
-"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768092-b7327e6c-179a-4ae8-8e94-fad019e2a8c2.png"/>
 </p>
 
 A sigmoid distribution is a type of probability distribution that is often used to model events that have a cumulative effect over time. It is characterized by an S-shaped curve, with a slow initial phase, a rapid growth phase, and a saturation phase where the rate of adoption levels off. The adoption of a buyback scheme may follow a sigmoid distribution if it involves a gradual process of awareness, consideration, and decision-making among potential participants.
@@ -378,7 +377,7 @@ A sigmoid distribution is a type of probability distribution that is often used 
 #### APPENDIX I: STORSLYSIA’S POPULATION PROJECTION <a name="i"></a>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768099-b1f19138-3f7f-4c0f-9986-f940ead2bfb5.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768099-b1f19138-3f7f-4c0f-9986-f940ead2bfb5.png"/>
 </p>
 
 #### APPENDIX J: BASE PREMIUMS  <a name="j"></a>
@@ -426,7 +425,7 @@ Further analysis of each model's projected economic capital reveals that the fou
 #### APPENDIX L: VOLUNTARY VS INVOLUNTARY COSTS BY REGION <a name="l"></a>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768110-149ca6e9-ca96-40ca-b1ee-1aa40281181b.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768110-149ca6e9-ca96-40ca-b1ee-1aa40281181b.png"/>
 </p>
 
 #### APPENDIX M: LIMIT & DEDUCTIBLE <a name="m"></a>
@@ -454,14 +453,14 @@ Further analysis of each model's projected economic capital reveals that the fou
 A worst-case scenario was modelled with a 10% increase past the limits of materials & labour costs, and the cost of replacing household goods (to 55% and 82.5% respectively). The resulting accumulated reserves are plotted above.
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768124-cd793f62-9b6e-4013-b8d7-ce43b02b159f.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768124-cd793f62-9b6e-4013-b8d7-ce43b02b159f.png"/>
 </p>
 
 
 #### APPENDIX O: LIMIT & DEDUCTIBLE <a name="o"></a>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/93301393/230768132-4502afd2-634e-496c-a127-ce455e8482c7.png)"/>
+  <img src="https://user-images.githubusercontent.com/93301393/230768132-4502afd2-634e-496c-a127-ce455e8482c7.png"/>
 </p>
 
 #### APPENDIX P: LIMIT & DEDUCTIBLE <a name="p"></a>
