@@ -56,6 +56,7 @@
 
 [*Section 8: Appendices*](#appendix)
 
+[*Section 9: References*](#ref)
 
 ## EXECUTIVE SUMMARY <a name="executivesum"></a>
 This report proposes a social insurance program designed to relieve the economic costs associated with climate-related catastrophes in Storslysia. The primary objective of the program is to mitigate the financial consequences for residents residing in high-risk areas facing displacement. The program covers costs arising from climate-related hazards such as temporary housing and household contents, but further assists Storslysia manage displacement risk through a buyback scheme aimedtowards high-risk, low value properties. By implementing the program, the program will reduce economic costs associated with climate catastrophe-related events by approximately 16.58% in the short-term and 28.75% in the long-term. Furthermore, the proposed social insurance program will continue to lower costs even if the climate situation deteriorates as represented by Shared Socioeconomic Pathways (SSP)scenarios. Hence, with 95% confidence, the program costs do not exceed 10% of Storslysia’s 
@@ -523,4 +524,15 @@ A worst-case scenario was modelled with a 10% increase past the limits of materi
 |     2069    |     0.0215%    |     0.0305%    |     0.0562%    |     0.0415%    |
 |     2070    |     0.0211%    |     0.0300%    |     0.0563%    |     0.0416%    |
 
+## SECTION 9: REFERENCES  <a name="ref"></a>
+Maryam Golnaraghi 2021, Climate Change Risk Assessment for the Insurance Industry, The Geneva Association, accessed 2 March 2023, <https://www.genevaassociation.org/sites/default/files/research-topics-document-type/pdf_public/climate_risk_web_final_250221.pdf>
 
+International Association of Insurance Supervisors 2018, Issues Paper on Climate Change Risks to the Insurance Sector, Sustainable Insurance Forum, accessed 5 March 2023, <https://www.insurancejournal.com/research/app/uploads/2018/08/IAIS_and_SIF_Issues_Paper_on_Climate_Change_Risks_to_the_Insurance_Sector_-1.pdf>
+
+IPCC 2012, Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation, IPCC, accessed 8 March 2023, <https://www.ipcc.ch/site/assets/uploads/2018/03/SREX_Full_Report-1.pdf> 
+
+RAL 2022, Extreme value analysis in R with extRemes and in2extRemes, NCAR, accessed 18 March 2023, <https://projects.ral.ucar.edu/extremes/#Top>
+
+Stephanie Glen 2021, Fréchet Distribution: Definition, Examples, StatisticsHowTo, accessed 20 March 2023, <https://www.statisticshowto.com/frechet-distribution/>
+
+Data Flair 2021, Bootstrapping in R – Single guide for all concepts, Data Flair, accessed 20 March, <https://data-flair.training/blogs/bootstrapping-in-r/>
